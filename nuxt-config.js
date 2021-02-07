@@ -1,4 +1,5 @@
 export default {
+    targer: 'static',
     head: {
         title: "The Awesome Dev",
         meta: [
